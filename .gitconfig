@@ -1,9 +1,0 @@
-[User]
-	name =  JOAN CLEARY
-	email = joancleary@u.boisestate.edu
-[sendemail]
-	smtpserver = smtp.gmail.com
-	smtpuser = joancleary@u.boisestate.edu
-	smtpPass = bnua ujpv xxrg acth
-	smtpencryption = ssl
-	smtpserverport = 465
